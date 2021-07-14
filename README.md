@@ -1,2 +1,2 @@
 # opencv_detection
-Identify cars, motorbikes and people
+Clean, minimal code for vehicle & person detection
